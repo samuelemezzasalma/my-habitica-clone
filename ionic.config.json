@@ -1,0 +1,7 @@
+{
+  "name": "my-habitica-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
